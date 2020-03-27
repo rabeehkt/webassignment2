@@ -1,1 +1,1 @@
-Run ws file using POCO websocket server and while connection is established using the web page entry_form.html enter my name and address then this informations are displayed on next webpage named details.html
+Run ws file using POCO websocket server and while connection is established using the web page entry_form.html enter your name and address then this informations are displayed on next webpage named details.html
